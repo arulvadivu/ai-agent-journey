@@ -1,0 +1,27 @@
+# Virtual Environment - never push this to GitHub
+venv/
+env/
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables (API keys etc)
+.env
+*.env
+
+# Logs
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
