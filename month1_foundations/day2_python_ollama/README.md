@@ -152,18 +152,3 @@ requests
 
 ---
 
-## 📅 Part of 6-Month Agentic AI Plan
-
-| Day | Topic |
-|-----|-------|
-| Day 1 | Setup Ollama |
-| Day 2 | Python + Ollama ✅ |
-| Day 3 | Prompt Engineering |
-| Day 4 | Chat History |
-| Day 5 | Mini Project + GitHub |
-
----
-
-## 📄 License
-
-MIT
